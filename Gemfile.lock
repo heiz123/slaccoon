@@ -1,3 +1,10 @@
+GIT
+  remote: https://gist.github.com/heiz123/8cc46e49b891537f9d7c.git
+  revision: 9eef8cc420e287ced6ae11256de402b9a9c52284
+  specs:
+    gamba (0.0.1)
+    melda (0.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -57,6 +64,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  gamba!
+  melda!
   rake
   ruboty-alias
   ruboty-cron
